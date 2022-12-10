@@ -1,6 +1,6 @@
 # Self Evaluation
 
-- Reflect on your time management and awareness of where you spend time. Is this a strength or area you are working on? What support do you need in this area? And/or, what tips do you have to share with your classmates in this area?
-- How would you explain to a 5 year old what a function is?
-- Share your understanding of arguments and parameters.
-- What questions/topics (related to Functions) do you want to being to your Small Group?
+- Reflect on your time management and awareness of where you spend time. Is this a strength or area you are working on? What support do you need in this area? And/or, what tips do you have to share with your classmates in this area? It seems like I am spending the most time on the assignments. When I get stuck on a question I spend a lot of time researching and trying to figure it out on my own. I am working on utilizing the chat more to get help when needed. I think we have all acknowledged that we need to do better asking questions to one another and our lead within our group. I think that will be a tremendous help once everyone is feeling comfortable.
+- How would you explain to a 5 year old what a function is? I would explain a function is like having the directions to play a new game.
+- Share your understanding of arguments and parameters. Parameters are like variables declared inside the function and Argument is a data type provided in the form of a valid JS type such as string, number, boolean etc. The number or arguments in the function call must match the number of parameters in the function definition.
+- What questions/topics (related to Functions) do you want to being to your Small Group? I would love to discuss question # 4 in the function.js file (writing a function to satisfy the interaction pattern).
