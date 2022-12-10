@@ -25,6 +25,17 @@ salaryRange("Anthem", 50000, 75000, "customer service")
 
 // 4: Write a function that satifies the following interaction pattern:
 
+function checkStock(num, name){
+  if (num >= 4){
+    console.log(`${name} is stocked`)
+  } else if (num>=1 && num<=3){
+    console.log(`${name} running LOW`)
+  } else {
+  console.log(`${name} OUT of stock!`)
+  }
+}
+
+
 checkStock(4, "Coffee");
 // => "Coffee is stocked"
 
